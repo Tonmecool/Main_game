@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_movement",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_movement",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Скрипты/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

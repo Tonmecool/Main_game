@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_dash",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_dash",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Скрипты/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

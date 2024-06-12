@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_get_movement_direction",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_get_movement_direction",
+  "parent":{
+    "name":"Helpers",
+    "path":"folders/Скрипты/Helpers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
